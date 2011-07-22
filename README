@@ -1,0 +1,10 @@
+This is repository contains the WebServices needed for the Integration with UPCNet plattform
+
+NOTES:
+
+Add by hand these dependencies to %TOMCAT_HOME%/lib:
+logback-classic.jar
+logback-core.jar
+commons-cli.jar
+slf4j-api.jar
+xuggle-xuggler.jar

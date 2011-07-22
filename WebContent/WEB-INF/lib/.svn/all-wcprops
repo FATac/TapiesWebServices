@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/Tapies/!svn/ver/182/TapiesWebServices/WebContent/WEB-INF/lib
+END
+jersey-client-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/Tapies/!svn/ver/182/TapiesWebServices/WebContent/WEB-INF/lib/jersey-client-1.6.jar
+END
+jackson-xc-1.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/Tapies/!svn/ver/182/TapiesWebServices/WebContent/WEB-INF/lib/jackson-xc-1.7.1.jar
+END
+jackson-core-asl-1.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/Tapies/!svn/ver/182/TapiesWebServices/WebContent/WEB-INF/lib/jackson-core-asl-1.7.1.jar
+END
+jackson-jaxrs-1.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/Tapies/!svn/ver/182/TapiesWebServices/WebContent/WEB-INF/lib/jackson-jaxrs-1.7.1.jar
+END
+jackson-mapper-asl-1.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/Tapies/!svn/ver/182/TapiesWebServices/WebContent/WEB-INF/lib/jackson-mapper-asl-1.7.1.jar
+END
+perst.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/Tapies/!svn/ver/184/TapiesWebServices/WebContent/WEB-INF/lib/perst.jar
+END
+jsr311-api-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/Tapies/!svn/ver/182/TapiesWebServices/WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/Tapies/!svn/ver/224/TapiesWebServices/WebContent/WEB-INF/lib/asm-3.1.jar
+END
+jersey-core-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/Tapies/!svn/ver/182/TapiesWebServices/WebContent/WEB-INF/lib/jersey-core-1.6.jar
+END
+jettison-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/Tapies/!svn/ver/182/TapiesWebServices/WebContent/WEB-INF/lib/jettison-1.1.jar
+END
+jersey-server-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/Tapies/!svn/ver/182/TapiesWebServices/WebContent/WEB-INF/lib/jersey-server-1.6.jar
+END
+jersey-json-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/Tapies/!svn/ver/182/TapiesWebServices/WebContent/WEB-INF/lib/jersey-json-1.6.jar
+END
